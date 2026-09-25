@@ -1,4 +1,10 @@
 #!/usr/bin/env python3
+# <bitbar.title>DisChargeRate</bitbar.title>
+# <bitbar.version>1.0.0</bitbar.version>
+# <bitbar.author>StavrUA</bitbar.author>
+# <bitbar.author.github>StavrUA</bitbar.author.github>
+# <bitbar.desc>Shows battery discharge rate in X%/hr in the menu bar.</bitbar.desc>
+# <bitbar.abouturl>https://github.com/StavrUA/dchrate</bitbar.abouturl>
 """SwiftBar plugin showing the average battery discharge rate over 30 days."""
 
 from __future__ import annotations
